@@ -1,12 +1,10 @@
 [
   "hubot-heroku-keepalive",
-  "hubot-google-images",
-  "hubot-google-translate",
   "hubot-pugme",
   "hubot-redis-brain",
   "hubot-catme",
   "hubot-meme",
   "hubot-michaelscott",
-  "hubot-thesimpsons",
+  "hubot-frinkiac",
   "hubot-trollbot"
 ]
