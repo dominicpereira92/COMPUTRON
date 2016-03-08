@@ -1,10 +1,11 @@
 [
   "hubot-heroku-keepalive",
-  "hubot-pugme",
   "hubot-redis-brain",
+  "hubot-pugme",
   "hubot-catme",
   "hubot-meme",
   "hubot-michaelscott",
   "hubot-frinkiac",
-  "hubot-trollbot"
+  "hubot-trollbot",
+  "hubot-business-cat"
 ]

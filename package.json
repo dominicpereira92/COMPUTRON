@@ -6,6 +6,7 @@
   "description": "Created by Dwight K. Schrute",
   "dependencies": {
     "hubot": "^2.18.0",
+    "hubot-business-cat": "^1.5.0",
     "hubot-catme": "^1.0.0",
     "hubot-frinkiac": "^2.0.3",
     "hubot-heroku-keepalive": "^1.0.2",
