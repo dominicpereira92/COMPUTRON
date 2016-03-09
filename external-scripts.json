@@ -1,8 +1,6 @@
 [
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
-  "hubot-pugme",
-  "hubot-catme",
   "hubot-meme",
   "hubot-michaelscott",
   "hubot-frinkiac",
